@@ -1,0 +1,17 @@
+---
+title: "Finally, Welcome to my Website!!"
+author: "Sundarajan Swaminathan"
+date: "2025-02-11"
+format:
+  html:
+    theme: journey
+    toc: true
+   
+---
+
+This is a Quarto website.
+
+## Introduction
+Welcome to my first portfolio website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
